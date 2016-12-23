@@ -1,2 +1,4 @@
 name: Nursen Ogutveren
-markdown: nodown
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
