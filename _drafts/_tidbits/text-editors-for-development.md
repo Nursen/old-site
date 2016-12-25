@@ -1,4 +1,8 @@
-
+---
+layout: tidbit
+title: Text Editors For Developers
+date: 2016-12-25
+---
 Today I read this article which goes into the pros and cons of Atom, Sublime, Vim, and VSCode. 
 
 https://www.codementor.io/mattgoldspink/tutorials/best-text-editor-atom-sublime-vim-visual-studio-code-du10872i7
